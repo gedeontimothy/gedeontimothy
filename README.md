@@ -330,7 +330,7 @@ Whether it's through automation, reusable architectures or open-source tools, my
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gedeontimothy/gedeontimothy/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/gedeontimothy/gedeontimothy/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
