@@ -29,8 +29,8 @@
 
 <br>
 
-<a href="https://github.com/gedeontimothy">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="https://gedeontimothy.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="https://github.com/dovetaily/crafteus">
